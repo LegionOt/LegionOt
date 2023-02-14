@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familiars>
+	<!-- Familiars sorcerrers -->
+	<familiar vocation="1" lookType="994" name="Thundergiant" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="5" lookType="994" name="Thundergiant" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="1" lookType="1367" name="Bladespark" premium="no" unlocked="yes" enabled="yes"  />
+	<familiar vocation="5" lookType="1367" name="Bladespark" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="1" lookType="1595" name="Avatar of Storm" premium="no" unlocked="yes" enabled="yes"  />
+	<familiar vocation="5" lookType="1595" name="Avatar of Storm" premium="no" unlocked="yes" enabled="yes" />
+	
+	<!-- Familiars druids -->
+	<familiar vocation="2" lookType="993" name="Grovebeast" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="6" lookType="993" name="Grovebeast" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="2" lookType="1364" name="Mossmasher" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="6" lookType="1364" name="Mossmasher" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="2" lookType="1596" name="Avatar of Nature" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="6" lookType="1596" name="Avatar of Nature" premium="no" unlocked="yes" enabled="yes" />
+	
+	<!-- Familiars paladins -->
+	<familiar vocation="3" lookType="992" name="Emberwing" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="7" lookType="992" name="Emberwing" premium="no" unlocked="yes" enabled="yes" />
+
+	<familiar vocation="3" lookType="1366" name="Sandscourge" premium="no" unlocked="yes" enabled="yes"  />
+	<familiar vocation="7" lookType="1366" name="Sandscourge" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="3" lookType="1594" name="Avatar of Light" premium="no" unlocked="yes" enabled="yes"  />
+	<familiar vocation="7" lookType="1594" name="Avatar of Light" premium="no" unlocked="yes" enabled="yes" />
+	
+	<!-- Familiars knights -->
+	<familiar vocation="4" lookType="991" name="Skullfrost" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="8" lookType="991" name="Skullfrost" premium="no" unlocked="yes" enabled="yes" />
+	
+	<familiar vocation="4" lookType="1365" name="Snowbash" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="8" lookType="1365" name="Snowbash" premium="no" unlocked="yes" enabled="yes" />
+		
+	<familiar vocation="4" lookType="1593" name="Avatar of Steel" premium="no" unlocked="yes" enabled="yes" />
+	<familiar vocation="8" lookType="1593" name="Avatar of Steel" premium="no" unlocked="yes" enabled="yes" />
+
+	
+</familiars>
